@@ -1,0 +1,9 @@
+
+CREATE TABLE ParkingSlot(
+
+ id SMALLINT AUTO_INCREMENT,
+ floor_id SMALLINT NOT NULL,
+ slot_number SMALLINT NOT NULL
+
+)
+
